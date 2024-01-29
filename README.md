@@ -12,8 +12,10 @@ This will print the certara logo at the top and also provide access to the follo
 To use any of the above, simply use the following format within an R markdown script:
 
 :::summary
+
 Some text can be entered here, including
 - bullet points
+
 :::
 
 ## Install
