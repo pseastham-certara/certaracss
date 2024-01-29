@@ -1,0 +1,111 @@
+---
+title: "Test certaracss"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+toctitle: "Contents"
+output:
+  html_document:
+---
+
+```{r rmdoptions, echo=FALSE}
+# remove all objects from memory except params
+rm(list=ls())
+
+# hide all RMD output
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r load libraries, results='asis'}
+
+library(certaracss)
+
+```
+
+:::summary
+-   bullet point summary
+-   2
+-   3
+:::
+
+:::datainfo
+-   bullet point data info
+-   2
+-   3
+:::
+
+:::guidance
+-   bullet point guidance
+-   2
+-   3
+:::
+
+:::summary
+-   bullet point summary
+-   2
+-   3
+:::
+
+:::datainfo
+-   bullet point data info
+-   2
+-   3
+:::
+
+:::guidance
+-   bullet point guidance
+-   2
+-   3
+:::
+
+:::summary
+-   bullet point summary
+-   2
+-   3
+:::
+
+:::datainfo
+-   bullet point data info
+-   2
+-   3
+:::
+
+:::guidance
+-   bullet point guidance
+-   2
+-   3
+:::
+
+:::summary
+-   bullet point summary
+-   2
+-   3
+:::
+
+:::datainfo
+-   bullet point data info
+-   2
+-   3
+:::
+
+:::guidance
+-   bullet point guidance
+-   2
+-   3
+:::
+
+:::summary
+-   bullet point summary
+-   2
+-   3
+:::
+
+:::datainfo
+-   bullet point data info
+-   2
+-   3
+:::
+
+:::guidance
+-   bullet point guidance
+-   2
+-   3
+:::
