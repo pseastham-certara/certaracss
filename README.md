@@ -1,8 +1,6 @@
 # certaracss
 
-See below for installation instructions.
-
-## Use
+## Using the library
 
 To use certaracss, simply load the library within an R markdown chunk that includes the option `results='asis'`. 
 This will print the certara logo at the top and also provide access to the following three texts:
