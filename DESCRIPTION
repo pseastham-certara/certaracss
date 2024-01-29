@@ -1,0 +1,17 @@
+Package: certaracss
+Type: Package
+Title: Loads Certara CSS and Logos for R Markdown
+Version: 0.1.0
+Authors@R: c(person("Patrick", "Eastham", email="patrick.eastham@certara.com", role=c("aut", "cre")),
+             person("Certara USA, Inc.", role=c("cph", "fnd")))
+Description: Loads Certara CSS and Logos for R Markdown
+Depends:
+    R (>= 3.5.0)
+Imports:
+    htmltools,
+    readr
+License: MIT
+Encoding: UTF-8
+LazyData: true
+StagedInstall: no
+RoxygenNote: 7.2.3
