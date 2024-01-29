@@ -18,6 +18,18 @@ Some text can be entered here, including
 :::
 ```
 
+## Troubleshooting
+
+If the package isn't working as expected, please first check that you are loading the library within a chunk that has `results='asis'`, e.g.
+
+```
+\\`\\`\\`{r results='asis'}
+library(certaracss)
+\\`\\`\\`
+```
+
+If you have done that and are still experiencing issues, please file an "issue" on this github page and we will try to address it.
+
 ## Install
 
 To install (and verify that installation worked) run the code below in R.
