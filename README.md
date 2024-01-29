@@ -18,6 +18,8 @@ Some text can be entered here, including
 :::
 ```
 
+You can use the test file `certaracss_test.Rmd` in this repository to test whether your package was installed correctly.
+
 ## Troubleshooting
 
 If the package isn't working as expected, please first check that you are loading the library within a chunk that has `results='asis'`, e.g.
